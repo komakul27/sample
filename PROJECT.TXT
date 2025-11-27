@@ -1,9 +1,9 @@
 git init
-echo "I am ishwari" >> sai.txt
+echo "I am ishwari" >> ish.txt
 git branch -M main
-git remote add origin https://github.com/your-username/your-repo.git
+git remote add origin https://github.com/your-usernamelomakul27/sample.git
 git remote -v
 git add .
 git status
-git commit -m "Added sai.txt file with introduction text"
+git commit -m "Added ish.txt file with introduction text"
 git push -u origin main
